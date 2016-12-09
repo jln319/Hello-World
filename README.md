@@ -13,7 +13,7 @@ _This is also italic_
 
 __BOLD__
 
-*You **can** combine them*
+*You**can**combine them*
 
 * Item 1
 * Item 2
