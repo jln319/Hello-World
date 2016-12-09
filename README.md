@@ -18,7 +18,7 @@ __BOLD__
 * Item 1
 * Item 2
 * Item 3
-* Item 4
+
 
 
 1. Item 1
@@ -26,3 +26,7 @@ __BOLD__
 
 
 [VisaWiki](https://visawiki/pages/viewpage.action?spaceKey=VSTECH&title=Visa+Shared+Technology+Home)
+
+As Grace Hopper said:
+
+>Just getting the bugs out, Sir!
