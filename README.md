@@ -17,4 +17,4 @@ __BOLD__
 2. Item 2
 
 
-[Github](https://visawiki/pages/viewpage.action?spaceKey=VSTECH&title=Visa+Shared+Technology+Home)
+[VisaWiki](https://visawiki/pages/viewpage.action?spaceKey=VSTECH&title=Visa+Shared+Technology+Home)
